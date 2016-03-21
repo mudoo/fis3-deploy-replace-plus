@@ -1,22 +1,22 @@
 {
-  "name": "fis3-deploy-replace",
+  "name": "fis3-deploy-replace-plus",
   "version": "1.0.2",
-  "description": "fis3-deploy-replace",
+  "description": "基于官方 fis3-deploy-replace 增强功能，支持文件匹配(glob)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fex-team/fis3-deploy-replace.git"
+    "url": "https://github.com/mudoo/fis3-deploy-replace-plus.git"
   },
   "keywords": [
     "fis3"
   ],
-  "author": "fansekey@gmail.com",
+  "author": "mudoo <mudoo@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fex-team/fis3-deploy-replace/issues"
+    "url": "https://github.com/mudoo/fis3-deploy-replace-plus/issues"
   },
-  "homepage": "https://github.com/fex-team/fis3-deploy-replace"
+  "homepage": "https://github.com/mudoo/fis3-deploy-replace-plus"
 }
