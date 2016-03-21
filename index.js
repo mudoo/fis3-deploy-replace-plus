@@ -17,7 +17,6 @@ module.exports = function(options, modified, total, next) {
 		fis.util.map(options.rules, function(filepath, rule){
 			// 检查是否有此打包规则，检查替换规则是否存在
 			if(!fis.util.glob(filepath, file.url) || typeof rule !== 'object') return;
-			console.log(file.url);
 
 			var content = file.getContent();
 

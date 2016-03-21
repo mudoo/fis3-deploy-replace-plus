@@ -1,6 +1,6 @@
 {
   "name": "fis3-deploy-replace-plus",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "基于官方 fis3-deploy-replace 增强功能，支持文件匹配(glob)",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/mudoo/fis3-deploy-replace-plus.git"
   },
   "keywords": [
-    "fis3"
+    "fis", "fis3", "replace"
   ],
   "author": "mudoo <mudoo@qq.com>",
   "license": "MIT",
